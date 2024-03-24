@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Biological Scientist with a strong foundatio
 
 📍 **Location:** Snohomish, WA 98296  
 📞 **Contact:** (206)-552-4365 | 📧 coltonrobbins73@gmail.com  
-🔗 **[LinkedIn](linkedin.com/in/colton-robbins73)** | **[GitHub](github.com/coltonrobbins73)**
+🔗 **[LinkedIn](linkedin.com/in/colton-robbins73)**
 
 ## 🎓 Education
 - **Master of Science (M.S) in Molecular Biology**, Washington State University, Pullman, WA
