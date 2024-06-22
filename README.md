@@ -1,4 +1,4 @@
-# Colton Robbins
+# **Colton Robbins**
 
 Welcome to my GitHub profile! I'm a data analyst, with extensive experience in managing large datasets, advanced statistical analysis, and software development. Skilled in Python, SQL, and data visualization tools with a proven track record of data-informed decision-making. Seeking to leverage analytical expertise and technical skills to contribute to problem-solving in a dynamic business environment.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a data analyst, with extensive experience in m
 ## Data Analyst – Fred Hutch Cancer Research, Seattle, WA
 **Mar 2023 – Jan 2024**
 
-**Skills:** SQL, Python, PostgreSQL, Machine Learning, Multiple Linear Regression, Decision Trees, Cloud Computing
+*Skills:* ***SQL, Python, PostgreSQL, Machine Learning, Multiple Linear Regression, Decision Trees, Cloud Computing***
 
 - Attained a 20% improvement in cell-type classification by implementing deep language models (scBERT transformer) on large-scale biological datasets (500+ million data points).
 - Reduced processing time by 95% for RNA expression analysis through Python automation scripts, Slurm job scheduler, and workflow management software on high-performance computing clusters.
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a data analyst, with extensive experience in m
 ## Research Data Specialist - Nanostring Technologies, Seattle WA
 **Dec 2021 – Nov 2022**
 
-**Skills:** SQL, Python (Pandas, Scikit-learn, Plotly, OpenCV), MySQL, Tableau, ANOVA, Regression, Causal Inference
+*Skills:* ***SQL, Python (Pandas, Scikit-learn, Plotly, OpenCV), MySQL, Tableau, ANOVA, Regression, Causal Inference***
 
 - Achieved 25% reduction in assay failure response time through the development and deployment of a cloud-based SQL database for real-time quality control monitoring and anomaly detection.
 - Accelerated time-to-insight by 70% through the development of Python-based automated data analysis pipelines leveraging pandas, scikit-learn, and Tableau visualization.
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a data analyst, with extensive experience in m
 ## Computational Biologist – Washington State University, Pullman WA
 **Sep 2018 – Aug 2021**
 
-**Skills:** Python (Pandas, Scikit-learn, Matplotlib), R (Bioconducter, Ggplot2, Tidyverse), Regression, Hypothesis Testing
+*Skills:* ***Python (Pandas, Scikit-learn, Matplotlib), R (Bioconducter, Ggplot2, Tidyverse), Regression, Hypothesis Testing***
 
 - Achieved a 20% improvement in cell-type classification on large multi-species multi-temporal single-cell data sets (e.g., 700+ million data points across 3 species across 15 time points).
 - Reduced processing time by 40% for immunofluorescent cell counting by authoring automated image analysis software using ImageJ macros, R scripting, and Bioconducter packages.
@@ -44,12 +44,12 @@ Welcome to my GitHub profile! I'm a data analyst, with extensive experience in m
 
 ## Education
 
-**M.S in Molecular Biology – Washington State University, Pullman WA – Honors Distinction – GPA 3.96 / 4.00**
+**M.S in Molecular Biology – Washington State University, Pullman WA** – *Honors Distinction* – **GPA 3.96 / 4.00**
 
 - Thesis Research Paper: Multi-Species and Multi-Dimensional Comparison of the Developmental Porcine Testis
 - Relevant coursework: Bioinformatics (Python, R, Unix), Advanced Genetics (Python, SQL, Unix)
 
-**B.S. in Biochemistry – Washington State University, Pullman WA – Magna Cum Laude – GPA 3.87 / 4.00**
+**B.S. in Biochemistry – Washington State University, Pullman WA** – *Magna Cum Laude* – **GPA 3.87 / 4.00**
 
 - Relevant coursework: Statistics (Regression), Calculus, Introduction to Bioinformatics (Python, Perl)
 
