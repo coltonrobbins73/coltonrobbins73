@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data analyst, with extensive experience in m
 
 📍 **Location:** Snohomish, WA 98296  
 📞 **Contact:** (206)-552-4365 | 📧 coltonrobbins73@gmail.com  
-🔗 **[LinkedIn](linkedin.com/in/colton-robbins73)**
+🔗 **[LinkedIn](www.linkedin.com/in/colton-robbins73)**
 🏅 **[Portfolio](https://portfolio-cmr.github.io/Directory/)**
 
 # Work Experience
